@@ -1,0 +1,59 @@
+body {
+    perspective: 800px;
+    background-color: #000;
+    background-image: url("img/brick.gif");
+}
+
+header {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.head1 {
+    width: 40rem;
+    display: flex;
+    justify-content: space-around;
+}
+.head1 a {
+    display: block;
+    width: 16rem;
+}
+.head1 a img {
+    width: 100%;
+}
+.head2 {
+    width: 40rem;
+    display: flex;
+    justify-content: space-around;
+}
+.head2 a {
+    width: 10rem; height: 10rem;
+    color: #000;
+    text-decoration: none;
+}
+.sticky {
+    display: flex;
+    width: 10rem; height: 10rem;
+    background-color: #EE8;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+    transform-origin: top right;
+    transform: rotateX(2deg) rotateY(0deg);
+}
+
+.canclock {
+    display: flex;
+    height: 10rem;
+    justify-content: center;
+    align-items: center;
+}
+#clock {
+    border: solid 8px;
+    border-bottom: solid 8px #888; border-top: solid 8px #555;
+    border-right: solid 8px #777; border-left: solid 8px #666;
+}
+

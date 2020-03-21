@@ -1,0 +1,1 @@
+Ici, on va mettre nos schémas pour savoir la structure, la forme, et peut-être même le fond.

@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "dseg";
+    src: local("DSEG7 Classic-Bold"),
+        url("font/DSEG7/DSEG7Classic-Bold.woff2") format("woff2"),
+        url("font/DSEG7/DSEG7Classic-Bold.woff") format("woff"),
+        url("font/DSEG7/DSEG7Classic-Bold.ttf") format("truetype");
+}

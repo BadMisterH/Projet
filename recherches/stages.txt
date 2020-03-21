@@ -1,0 +1,33 @@
+https://www.studentjob.fr/stage 
+	Liste des villes
+	->	Sorte de moteur de recherche un peu comme Google Shop
+		"Il y a 417 offres de stages à Paris."
+		Critères:
+			Mot-clés
+			Distance
+			Type de contrat
+			Secteur d'activité
+			Formation
+			Langue
+
+https://www.regionsjob.com/stage
+	Barre de recherche
+	Dernières offres de stage
+	Rechercher offres par métiers
+	Rechercher offres par ville
+	Rechercher offres par association
+
+https://www.indeed.fr/Emplois-Offre-Stage
+	Moteur de recherche à la Google Shop (aussi)
+	Critères:
+		Salaire
+		Type de contrat
+		Lieu
+		Entreprise
+		Métier
+
+https://www.directetudiant.com/theme/offres-stage.html
+	Barre de recherche
+	"Trouver un stage parmi nos 1 870 offres de stage"
+	Liste des offres
+
